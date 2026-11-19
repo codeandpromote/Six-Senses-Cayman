@@ -1,0 +1,6 @@
+{
+  "name": "Six Senses Cayman Adventures",
+  "description": "Small-group eco-tours and private boat charters in Grand Cayman. Departing Cayman Islands Yacht Club for Stingray City, Mangrove Forests, Coral Reefs, Starfish Point, and Bio Bay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
